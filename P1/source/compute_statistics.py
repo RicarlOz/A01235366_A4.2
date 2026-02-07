@@ -164,7 +164,6 @@ def main() -> int:
     start = time.perf_counter()
 
     values: list[float] = []
-
     try:
         with open(input_file, "r", encoding="utf-8") as file:
             for idx, line in enumerate(file, start=1):
