@@ -23,6 +23,7 @@ Cada problema fue implementado siguiendo estrictamente los requerimientos defini
 
 El repositorio está organizado por problema, siguiendo la estructura sugerida en clase:
 
+```
 P1/
 ├─ source/
 ├─ tests/
@@ -37,7 +38,7 @@ P3/
 ├─ source/
 ├─ tests/
 └─ results/
-
+```
 
 ### Descripción de carpetas
 
