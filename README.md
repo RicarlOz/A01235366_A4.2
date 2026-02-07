@@ -1,7 +1,7 @@
 # Tarea 4.2 – Ejercicios de Programación  
 **Materia:** Pruebas de Software y Calidad  
 **Autor:** Ricardo Gómez  
-**Actividad:** Tarea: 4.2 Ejercicio de programación 1 
+**Actividad:** 4.2 Ejercicio de programación 1 
 
 ---
 
