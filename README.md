@@ -36,7 +36,6 @@ P2/
 P3/
 ├─ source/
 ├─ tests/
-├─ results/
 └─ results/
 
 
