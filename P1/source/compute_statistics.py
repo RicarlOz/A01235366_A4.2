@@ -82,8 +82,6 @@ def mode(values: list[float]) -> float | None:
         return None
 
     modes = [val for val, cnt in counts.items() if cnt == max_count]
-    if len(modes) != 1:
-        return None
 
     return modes[0]
 
